@@ -2,11 +2,11 @@
 //
 
 #include "stdafx.h"
-#include "Question3.h"
+#include "Question9.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	GetLargestPrimeFactor(100000);
+	Question9::Foo();
 	return 0;
 }
 

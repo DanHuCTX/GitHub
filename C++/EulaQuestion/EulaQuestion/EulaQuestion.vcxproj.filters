@@ -36,6 +36,12 @@
     <ClInclude Include="Question4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Question8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Question9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
